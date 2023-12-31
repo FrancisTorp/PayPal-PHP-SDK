@@ -13,8 +13,8 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "ext-curl": "*",
-        "ext-json": "*",
+        "ext-curl": "#",
+        "ext-json": "#",
         "psr/log": "^1.0.0"
     },
     "require-dev": {
@@ -26,3 +26,4 @@
         }
     }
 }
+ 
